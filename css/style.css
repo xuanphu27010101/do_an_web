@@ -2318,7 +2318,7 @@ body {}
  .single-product-details ul{
      display: inline-block;
      width: 100%;
-     border: 1px #010101 dashed;
+/*     border: 1px #010101 dashed;*/
      margin-bottom: 30px;
 }
  .single-product-details ul li{
@@ -2422,3 +2422,7 @@ body {}
 
 
 
+
+.img-fluid {
+    
+}
