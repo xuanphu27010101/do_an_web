@@ -92,7 +92,7 @@
                     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar-menu" aria-controls="navbars-rs-food" aria-expanded="false" aria-label="Toggle navigation">
                     <i class="fa fa-bars"></i>
                 </button>
-                    <a class="navbar-brand" href="../index1.html"><img src="../images/logo.png" width="120" height="70" class="logo" alt=""></a>
+                    <a class="navbar-brand" href="../index.html"><img src="../images/logo.png" width="120" height="70" class="logo" alt=""></a>
                 </div>
                 <!-- End Header Navigation -->
 
@@ -100,7 +100,7 @@
                 
                 <div class="collapse navbar-collapse" id="navbar-menu">
                   <ul class="nav navbar-nav ml-auto" data-in="fadeInDown" data-out="fadeOutUp">
-                    <li class="nav-item"><a class="nav-link" href="../index1.html">Trang chủ</a></li>
+                    <li class="nav-item"><a class="nav-link" href="../index.html">Trang chủ</a></li>
                     <li class="nav-item"><a class="nav-link" href="../shop.html">Cửa hàng</a></li>
                     <li class="nav-item"><a class="nav-link" href="../about.html">Về chúng tôi</a></li>
                   </ul>
@@ -558,7 +558,7 @@
 
     <!-- Start copyright  -->
     <div class="footer-copyright">
-        <p class="footer-company">All Rights Reserved. &copy; 2022 <a href="../index1.html">BOOK STORE</a> </p>
+        <p class="footer-company">All Rights Reserved. &copy; 2022 <a href="../index.html">BOOK STORE</a> </p>
     </div>
     <!-- End copyright  -->
 
