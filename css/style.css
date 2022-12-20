@@ -33,7 +33,7 @@
     SKELETON
 -------------------------------------------------------------------*/
  body {
-     color: #666666;
+     color: #af7b7b;
      font-size: 15px;
      font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
      line-height: 1.80857;
@@ -179,7 +179,7 @@ body {}
  .custom-select-box .bootstrap-select .btn-light{
      padding: 4px;
      font-size: 14px;
-     background: #d33b33;
+     background: #54000b;
      color: #fff;
      border: none;
      border-radius: 0px;
@@ -687,7 +687,7 @@ body {}
      height: 100vh;
 }
  .slides-navigation a {
-     background: #d33b33;
+     background: #54000b;
      position: absolute;
      height: 70px;
      width: 70px;
@@ -920,7 +920,7 @@ body {}
      color: #ffffff;
 }
  .products-single .mask-icon{
-     background: rgba(1,1,1, 0.5);
+     background: rgba(2,1,1, 0.5);
      top: -100%;
      -ms-filter: "progid: DXImageTransform.Microsoft.Alpha(Opacity=0)";
      filter: alpha(opacity=0);
@@ -1368,7 +1368,7 @@ body {}
      padding-bottom: 30px;
 }
  .all-title-box .breadcrumb{
-     background: #d33b33;
+     background: #54000b;
      margin: 0px;
      display: inline-block;
      border-radius: 0px;
@@ -1454,7 +1454,7 @@ body {}
      align-content: center;
 }
  .our-team:hover img{
-     opacity: 0.5;
+     opacity: 0.1;
 }
  .our-team .team-content{
      color: #000;
@@ -1788,7 +1788,7 @@ body {}
      padding: 4px 12px;
 }
  .product-item-filter li .nav-link.active {
-     background: #d33b33;
+     background: #54000b;
      border: none;
      color: #ffffff;
 }
