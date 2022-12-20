@@ -137,8 +137,8 @@
             <div class="row">
               <div class="col-md-12">
                 <h1 class="m-b-20"><strong>Chào mừng đến với <br>
-                  BookStore</strong></h1>
-                <p class="m-b-40">When it comes to searching for books, there is only one place to turn to – BookStore.</p>
+                  UITBookStore</strong></h1>
+                <p class="m-b-40">When it comes to searching for books, there is only one place to turn to – UITBookStore.</p>
                 <p><a class="btn hvr-hover" href="../shop.html">Vào cửa hàng</a></p>
               </div>
             </div>
@@ -149,8 +149,8 @@
             <div class="row">
               <div class="col-md-12">
                 <h1 class="m-b-20"><strong>Chào mừng đến với <br>
-                  BookStore</strong></h1>
-                <p class="m-b-40">When it comes to searching for books, there is only one place to turn to – BookStore.</p>
+                  UITBookStore</strong></h1>
+                <p class="m-b-40">When it comes to searching for books, there is only one place to turn to – UITBookStore.</p>
                 <p><a class="btn hvr-hover" href="../shop.html">Vào cửa hàng</a></p>
               </div>
             </div>
@@ -161,8 +161,8 @@
             <div class="row">
               <div class="col-md-12">
                 <h1 class="m-b-20"><strong>Chào mừng đến với <br>
-                  BookStore</strong></h1>
-                <p class="m-b-40">When it comes to searching for books, there is only one place to turn to – BookStore.</p>
+                  UITBookStore</strong></h1>
+                <p class="m-b-40">When it comes to searching for books, there is only one place to turn to – UITBookStore.</p>
                 <p><a class="btn hvr-hover" href="../shop.html">Vào cửa hàng</a></p>
               </div>
             </div>
@@ -306,7 +306,11 @@
                                     <p><i class="fas fa-phone-square"></i>Điện thoại: <a href="tel:0123456789">+84-123456789</a></p>
                                 </li>
                                 <li>
+<<<<<<< HEAD
                                     <p><i class="fas fa-envelope"></i>Email: <a href="mailto:uitbooks@gmail.com">uitbooks@gmail.com</a></p>
+=======
+                                    <p><i class="fas fa-envelope"></i>Email: <a href="mailto:UITBookStore@gmail.com">UITBookStore@gmail.com</a></p>
+>>>>>>> c02d60230acc0f6bdf6445f60da2f2c876e9dcce
                                 </li>
                             </ul>
                         </div>
