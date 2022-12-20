@@ -32,7 +32,7 @@
 /*------------------------------------------------------------------
     SKELETON
 -------------------------------------------------------------------*/
- body {
+body {
      color: #af7b7b;
      font-size: 15px;
      font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
@@ -854,6 +854,13 @@ body {}
      right: 0px;
      z-index:8;
 }
+ .type-rb{
+     position: absolute;
+     bottom: 0px;
+     right: 0px;
+     z-index:8;
+}
+
  .type-lb .sale{
      background: red;
      color: #ffffff;
