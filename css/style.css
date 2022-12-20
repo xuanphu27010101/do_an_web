@@ -1449,8 +1449,9 @@ body {}
 }
  .our-team img{
      width: 100%;
-     height: auto;
+     height: 70%;
      transition: all 0.3s ease-in-out 0s;
+     align-content: center;
 }
  .our-team:hover img{
      opacity: 0.5;
